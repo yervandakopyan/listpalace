@@ -1,0 +1,79 @@
+.job_details_box {
+	width:1000px;
+	margin-left: 60px;
+	margin-top:25px;
+	float:left;
+}
+
+
+.job_cats {
+    height: 245px;
+    margin: 25px;
+    width: 430px;
+	float: left;
+}
+
+.thumbs {
+	height: 245px;
+	width:450px;
+	margin: 25px;
+	float: left;
+}
+
+.thumb_image {
+	float: left;
+    height: 100px;
+    margin: 10px;
+    width: 100px;
+}
+
+.job_desc_box_wrapper {
+	height: 275px;
+	width:450px;
+	margin: 25px;
+	float: left;
+	
+}
+
+.bid_box_wrapper {
+	height: 245px;
+	width:435px;
+	margin: 25px;
+	float: left;
+}
+
+.bid_box {
+	margin: 25px;
+}
+
+#bid_amount{
+	width:75px;
+}
+
+.description {
+	margin:15px;
+	font-size:14pt;
+	font-weight:bold;
+}
+
+.location {
+	margin:15px;
+	height:45px;
+	color:red;
+}
+
+.sqft{
+	margin:15px;
+	height:20px;
+	color:red;
+}
+
+.cat_box {
+	margin:15px;
+	font-weight:bold;
+	color:red;
+}
+
+.words {
+	width: 21%;
+}

@@ -1,0 +1,60 @@
+.job_box {
+	/*border: medium solid;*/
+    float: left;
+    margin-left: 184px;
+    width: 844px;
+	height:98%;
+}
+
+.job_display {
+	border: medium solid;
+    float: left;
+    height: 155px;
+    margin: 10px;
+    width: 175px;
+}
+
+.sub_cat {
+	margin-left: 55px;
+    margin-top: 5px;
+}
+
+.job_place {
+	font-size: 9px;
+    height: 25px;
+    margin-left: 37px;
+    width: 154px;
+}
+
+.job_list {
+	width:80px;
+	font-size:9px;
+}
+
+.prev {
+	width:110px;
+	height:110px;
+	margin-left: 30px
+}
+
+.img-preview {
+	width:850px;
+	height:630px;
+	float:left;
+
+}
+
+.quick-prev-wrap {
+	width: 1000px;
+	height: 750px;
+}
+
+.desc_div {
+	width:150px;
+	float:left;
+}
+
+.bid_area {
+	width:150px;
+	float:left;
+}

@@ -1,0 +1,20 @@
+.bid_request{
+	width:99%;
+	margin-left:40px;
+}
+
+.bid_request select {
+	width:160px;
+}
+
+
+.image_upload {
+	width:65%;
+	height:80px;
+	margin-left:297px;
+}
+
+.name {
+	width:250px;
+	float:left;
+}
