@@ -1,13 +1,7 @@
 <?
 
-
-
 abstract class cabstract  {
 
-	protected $host='mysql:dbname=listpalacedata;host=mysql.listpalace.com';
-	protected $user='yevo4list';
-	protected $password='yevakopyan1';
-	
 
 	public function __construct() {
         try {
